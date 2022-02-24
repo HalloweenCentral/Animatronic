@@ -1,0 +1,22 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Untitled Sketch 2
+*Date=11:57:22
+*CreatedBy=Fritzing 0.9.9b.2021-09-22.CD-348-0-f0af53a9
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;Breakout board;29.5827;-25.3334;90;Bottom;Mod1
+2;;;4.93889;-51.5761;0;Bottom;JACK1
+3;0.030;3 mm [THT];31.609;-27.5021;0;Bottom;LED1
+4;;TO92 [THT];79.78;-52.4016;90;Bottom;Q1
+5;220;THT;26.5289;-44.5911;0;Bottom;R1
+6;;;1.12889;-34.4311;0;Bottom;J1
+7;;;62.8261;-26.4956;0;Bottom;Part2
